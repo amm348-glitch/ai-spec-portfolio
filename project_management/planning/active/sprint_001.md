@@ -48,5 +48,5 @@ Create the initial site scaffold, wire up Pico.css, and deploy a live version us
 - [ ] No console errors
 
 ## Completion Evidence
-- Live GitHub Pages URL
+- Live GitHub Pages URL: https://amm348-glitch.github.io/ai-spec-portfolio/
 - Commit hash where site scaffold was added
