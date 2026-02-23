@@ -169,6 +169,15 @@ I will build a single-page “Technical Whitepaper” portfolio with one feature
 ---
 
 ## Tech Exploration
-Stack options considered:
-Chosen stack:
-Reason:
+### Stack Options Considered
+- Plain HTML/CSS with custom styling
+- HTML with a classless CSS framework
+- JavaScript frameworks (rejected due to scope and time constraints)
+
+### Chosen Stack
+- HTML
+- Pico.css (classless CSS framework)
+- GitHub Pages for hosting
+
+### Reason
+Pico.css provides a clean, documentation-style aesthetic out of the box without introducing class-heavy styling or build tooling. This minimizes visual and technical complexity, allowing the project to focus on spec-driven development, AI-assisted workflows, and process documentation rather than custom UI implementation. GitHub Pages offers a reliable, low-friction deployment path aligned with the project’s constraints.
