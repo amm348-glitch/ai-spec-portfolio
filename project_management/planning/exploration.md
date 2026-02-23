@@ -90,6 +90,18 @@ Very minimal content; the style can feel empty without enough information densit
 - **Alternating Z-Pattern:** Large text blocks alternating sides with diagrams or tables
 
 ---
+## Design Direction Exploration
+### Chosen Design Direction
+
+**Technical Blueprint (Minimalist Utility)**
+
+**Reason for choice:**
+- Instructor-first audience values clarity and structure
+- Mirrors professional documentation environments (GitHub, API docs)
+- Aligns strongly with spec-driven development principles
+- Lowest risk of visual drift
+- Simple to implement and maintain on GitHub Pages
+---
 
 ## Content Exploration
 What pages are required?  
