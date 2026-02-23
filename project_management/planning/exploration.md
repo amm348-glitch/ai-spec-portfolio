@@ -162,6 +162,10 @@ Very minimal content; the style can feel empty without enough information densit
 - **Workflow proof:** sprint docs + commit history
 - **Build proof:** screenshots + deployed GitHub Pages link
 - **Validation proof:** checklist (“mobile/desktop ok, links ok, no console errors”)
+
+  ### Chosen Content Plan
+
+I will build a single-page “Technical Whitepaper” portfolio with one featured case study using the Spec-to-Ship template above. I will only add an archive page if time remains after deployment.
 ---
 
 ## Tech Exploration
