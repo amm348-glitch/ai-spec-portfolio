@@ -104,9 +104,64 @@ Very minimal content; the style can feel empty without enough information densit
 ---
 
 ## Content Exploration
-What pages are required?  
-What proof builds trust quickly?
+### Proposed Minimum Viable Information Architecture (MVIA)
 
+**Approach:** Single-page “Technical Whitepaper” style (documentation-first), with optional project archive later.
+
+**Page(s):**
+- **Home (single page)** with sections:
+  1. **Header / Metadata**
+     - Name + title (e.g., “Student Developer | AI-Augmented Workflows”)
+     - 1-sentence thesis on spec-driven development
+     - Links: GitHub, LinkedIn, Resume (PDF), Email
+     - **Receipts:** direct links to repo + deployed site
+  2. **Methodology (How I Work)**
+     - 3-step flow: Spec → Prompt → Audit (short explanation)
+     - **Receipts:** link to `/project_management/planning/spec.md` (later) + sprint docs
+  3. **Featured Project Case Study (1 project minimum)**
+     - Use the “Spec-to-Ship” template below
+     - **Receipts:** links to spec, commits, screenshots, deploy URL
+  4. **Toolbox / Stack**
+     - Table: Tools used (HTML/CSS, GitHub Pages, AI tools), why chosen
+     - **Receipts:** repo folder links, deployment settings screenshot (optional)
+  5. **Footer**
+     - “Built with [stack] | Last updated: [date]”
+     - **Receipts:** last commit date, deploy URL
+
+---
+
+### Case Study Template (Spec-to-Ship Format)
+
+**Section 1 — Brief & Constraints**
+- Problem: what you built + why
+- Constraints: timeline, tools, scope limits
+- Spec: link to the written spec file
+- **Receipts:** link to spec doc + sprint plan
+
+**Section 2 — AI Orchestration (Process Evidence)**
+- Prompt strategy: what you asked AI to do (draft, critique, refactor)
+- Iteration log: what changed after critique (2–4 bullets)
+- **Receipts:** key prompt snippets in the repo (or summarized notes), commit links showing changes
+
+**Section 3 — Result & Technical Audit**
+- Result: screenshots (or short GIF)
+- Quality checks: Lighthouse score OR “no console errors” OR “validated on mobile + desktop”
+- **Receipts:** live demo URL + repo link + final commit hash/tag
+
+**Section 4 — Reflection (Instructor-Focused)**
+- What I learned about spec-driven development + AI
+- What I would change in the spec next time
+- Future roadmap (2–4 bullets)
+- **Receipts:** roadmap bullets + references to issues/todos (optional)
+
+---
+
+### Evidence / Receipts Checklist
+
+- **Requirements proof:** link to `spec.md`
+- **Workflow proof:** sprint docs + commit history
+- **Build proof:** screenshots + deployed GitHub Pages link
+- **Validation proof:** checklist (“mobile/desktop ok, links ok, no console errors”)
 ---
 
 ## Tech Exploration
