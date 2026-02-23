@@ -22,7 +22,7 @@ Replace all placeholder content and complete one full Spec-to-Ship case study.
 https://amm348-glitch.github.io/ai-spec-portfolio/
 
 **Key Commit(s):**
-- Commit adding full case study: `<PASTE COMMIT HASH HERE>`
+- Commit adding full case study: `b2ffbf6fd7fc330e2d481263d0e8a31c9818dc11`
 
 **Notes:**
 - All placeholder text removed
